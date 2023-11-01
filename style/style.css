@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: rgb(255, 255, 255);
+}
+
+header img{
+    width: 32px;
+    height: 32px;
+}
